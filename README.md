@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramybahy
-- 👀 I’m interested in digital marketing with a specialization in search engine optimization
-- 🌱 I’m currently learning different courses on digital marketing and search engine optimization
-- 💞️ I’m looking to collaborate on ...different freelancing projects in the search engine optimization field
+- 👀 I’m interested in programming with a specialization in front-end web development
+- 🌱 I’m currently learning different courses on programming and web development
+- 💞️ I’m looking to collaborate on ...different freelancing projects in the front-end web development field
 - 📫 How to reach me ...my gmail: ramy.bahy2@gmail.com
 outlook: ramy.bahy@live.com
 linkedin: https://www.linkedin.com/in/ramy-walid/
