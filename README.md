@@ -14,6 +14,5 @@ You can click the Preview link to take a look at your changes.
 My Deployed Projects
 - https://ramybahy.github.io
 - https://ramybahy.github.io/Clock/
-- https://ramybahy.github.io
-- https://ramybahy.github.io
-- https://ramybahy.github.io
+- https://ramybahy.github.io/Flex-Panel-Gallery
+- https://ramybahy.github.io/cities-and-states
