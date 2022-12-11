@@ -21,7 +21,7 @@ My Deployed Projects
 - https://ramybahy.github.io/Slide-Scroll
 - https://ramybahy.github.io/Move-Shadow
 - https://ramybahy.github.io/Sort-Without-Articles
-- https://ramybahy.github.io/
+- https://ramybahy.github.io/Speech-Synthesis
 - https://ramybahy.github.io/
 - https://ramybahy.github.io/
 - https://ramybahy.github.io/
