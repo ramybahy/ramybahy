@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramybahy
-- 👀 I’m interested in programming with a specialization in front-end web development
-- 🌱 I’m currently learning different courses on programming and web development
-- 💞️ I’m looking to collaborate on ...different freelancing projects in the front-end web development field
+- 👀 I’m interested in programming with a specialization in Software Application Development
+- 🌱 I’m currently learning different courses on programming and Software development
+- 💞️ I’m looking to collaborate on ...different freelancing projects in the Software Application Development field
 - 📫 How to reach me ...my gmail: ramy.bahy2@gmail.com
 outlook: ramy.bahy@live.com
 linkedin: https://www.linkedin.com/in/ramy-walid/
